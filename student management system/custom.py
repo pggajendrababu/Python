@@ -1,0 +1,10 @@
+colour1 = "light sky blue"
+colour2 = "light green"
+colour3 = "cyan"
+colour4 = "black"
+colour5 = "red"
+colour6 = "blue"
+colour7 = "orange"
+font1 = ("Times new roman", 10, "bold")
+font2 = ("Helvetica", 10, "bold")
+font3 = ("Ariel", 10, "bold")
